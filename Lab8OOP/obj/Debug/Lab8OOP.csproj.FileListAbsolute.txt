@@ -1,0 +1,7 @@
+C:\Users\imngl\source\repos\Lab8OOP\Lab8OOP\obj\Debug\Lab8OOP.csprojAssemblyReference.cache
+C:\Users\imngl\source\repos\Lab8OOP\Lab8OOP\obj\Debug\Lab8OOP.csproj.CoreCompileInputs.cache
+C:\Users\imngl\source\repos\Lab8OOP\Lab8OOP\bin\Debug\Lab8OOP.exe.config
+C:\Users\imngl\source\repos\Lab8OOP\Lab8OOP\bin\Debug\Lab8OOP.exe
+C:\Users\imngl\source\repos\Lab8OOP\Lab8OOP\bin\Debug\Lab8OOP.pdb
+C:\Users\imngl\source\repos\Lab8OOP\Lab8OOP\obj\Debug\Lab8OOP.exe
+C:\Users\imngl\source\repos\Lab8OOP\Lab8OOP\obj\Debug\Lab8OOP.pdb
